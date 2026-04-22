@@ -1,0 +1,9 @@
+requests
+pandas
+python-dotenv
+fastapi
+uvicorn
+plotly
+dash
+scikit-learn
+transformers
